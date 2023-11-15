@@ -1,0 +1,271 @@
+.sec{
+    background-color: rgb(74, 114, 189);
+    background-image: url(lamp.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: lighten;
+}
+
+.inbox{
+    /* background-color: blue; */
+    min-height: 550px;
+   
+    width: 100%;
+    text-align: center;
+
+}
+.head{
+    padding-top: 250px;
+    color: aliceblue;
+}
+.sec2{
+    background-color:rgb(61, 74, 220) ;
+    margin-bottom: 10px;
+}
+.inbox1{
+    /* background-color: rgb(69, 146, 146); */
+    min-height: 40px;
+    text-align: center;
+    margin: 15px;
+}
+.inbox2{
+    background-color: rgb(251, 255, 255);
+    min-height: 300px;
+ 
+    padding: 5px;
+
+
+}
+.ar{
+    background-color: rgb(64, 35, 179);
+    font-size: 15px;
+    border-radius:5px;
+    color: white;
+    padding: 5px 35px;
+    margin-top: 5px;
+    
+}
+.inbox3{
+    min-height: 350px;
+    text-align: right;
+}
+.find{
+    background-color: rgb(46, 77, 192);
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 20px;
+    display: inline-block;
+    width: 300px;
+    box-shadow: 5px 5px 5px black;
+    text-align: center;
+    text-decoration: none;
+    transition: 1s;
+}
+.inbox4{
+    background-color: rgb(61, 74, 220);
+    color: aliceblue;
+    min-height:100PX ;
+    text-align: center;
+    margin-top: 25px;
+
+}
+ .line{
+     background-color: blue;
+     height: 2px;
+     max-width: 100px;
+     margin: auto;
+     margin-top: -5px;
+}
+.inbox5{
+    min-height: 50px;
+    margin-top:50px;
+
+
+}
+.hr{
+color: rgb(255, 255, 255);
+}
+.icon1{
+    border-radius: 55%;
+    background-color:rgb(255, 255, 255) ;
+    padding:10px;
+    color: rgb(3, 3, 3);
+}
+.inbox6{
+    color: rgb(5, 5, 5);
+    min-height: 80px;
+    margin-top: 15px;
+    text-align: center;
+}
+.inbox7{
+    background-color: rgb(34, 53, 163);
+    justify-content: center;
+    position: relative;
+}
+a.qe{
+position: absolute;
+color: white;
+left: 0px;
+top: 45%;
+display: block;
+width: 100%;
+text-align: center;
+z-index: 10;
+text-decoration: none;
+text-transform: uppercase;
+
+}
+.inbox77{
+    background-color: rgb(34, 53, 163);
+    min-height:357px ;
+    justify-content: center;
+}
+
+.sec3{
+    background-color:rgb(255, 255, 255) ;
+}
+.tow{
+    color: aliceblue;
+    border-radius: 55%;
+   display: inline-block;
+}
+.inbox18{
+    background-color: rgb(255, 255, 255);
+    color: rgb(31, 30, 30);
+    padding: 50px;
+    text-align: center;
+    font-size: medium;
+    border: 1px solid rgb(218, 211, 211) ;
+}
+.inbox8{
+    background-color: rgb(255, 255, 255);
+    margin: 15px;
+    text-align: center;
+}
+.get{
+    color: black;
+}
+.pq{
+    margin: 30px;
+}
+.kp{
+    /* background-color:blue ; */
+    padding: 10px;
+    border-radius: 3px;
+   color: aliceblue;
+
+}
+.an{
+    border-radius: 50px;
+    text-align: center;
+}
+.inbox9{
+    /* background-color: aqua; */
+    text-align: center;
+    min-height: 50px;
+    margin: 25px;
+}
+.sec4{
+      background-color: rgb(255, 255, 255)
+}
+
+.inbox10{
+        /* background-color: rgb(255, 255, 255); */
+        height:100px ;
+        justify-content: center;
+        margin: 70px;
+        padding: 5px 15px;
+}
+.dp{
+    background-color: rgb(17, 43, 208);
+  padding: 5px 15px;
+   display: inline-block;
+   margin-bottom: 50px;
+   text-decoration: none;
+   color:white ;
+}
+.sec5{
+    background-color: rgb(49, 81, 176);
+}
+
+.man{
+    color: aliceblue;
+}
+.st{
+    color: aliceblue;
+    padding: 20px;
+}
+.wl{
+    color: aliceblue;
+    margin: 20px;
+}
+.inbox12{
+    /* background-color: aqua; */
+    height: 300px;
+    margin:10px 0px ;
+    color: aliceblue;
+}
+.tn{
+    width: 100%;
+}
+.bnt{
+    margin:10px ;
+    padding: 20px;
+}
+.inbox14{
+    min-height: 50px;
+}
+.m{
+    width: 50ox;
+}
+.about{
+    margin: 15px;
+    color: aliceblue;
+    font-weight: 500;
+    font-size: 50;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navbar{
+    background-color: rgb(86, 112, 207);
+}
+.navbar-brand{
+    color: aliceblue;
+}
+.input{
+    background-color: rgb(92, 177, 220);
+    
+}
+@media(max-width:468px){
+    .inbox{
+        padding: 180px 0px 0px 0px;
+    }
+}.pp{
+    width: 300px;
+    margin: 15px 0px;
+
+}
+.am{
+    margin: 15px 0px;
+}
+.ks{
+    width: 300px;
+    margin: 15px 0px;
+    
+}
+.on{
+    color: aliceblue;
+    text-transform: capitalize;
+}
+.inbox12{
+    min-height: 70px;
+    margin: 15px 0px;
+}
+@media(max-width:1400px){
+    .inbox77{
+        min-height: 290px;
+    }
+}
